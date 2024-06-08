@@ -5,7 +5,9 @@
   "python.languageServer": "Pylance", 
   "python.testing.unittestEnabled": false, 
   "python.testing.pytestEnabled": true,
-  "python.testing.pytestArgs": [],
+  "python.testing.pytestArgs": [
+    "."
+  ],
   "python.analysis.typeCheckingMode": "basic",
   
   
